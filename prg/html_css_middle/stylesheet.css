@@ -123,6 +123,7 @@ header {
   font-weight: normal;
 }
 
+/* lesson-iconクラスのCSSを指定してください */
 .lesson {
   float: left;
   width: 25%;
@@ -151,6 +152,7 @@ header {
   font-weight: normal;
 }
 
+/* message-wrapperクラスのCSSを指定してください */
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
@@ -160,16 +162,20 @@ header {
 .message {
   padding: 15px 40px;
   background-color: #5dca88;
+   /* カーソルの形をpointerにしてください */
   cursor: pointer;
+  /* box-shadowをつけてください */
   box-shadow: 0 7px #1a7940;
 }
 
+/* messageクラスがクリックされているときのCSSを指定してください */
 .message:active {
   position: relative;
   top: 7px;
   box-shadow: none;
 }
 
+/* <footer>の中の<img>のCSSを指定してください */
 footer img {
   width: 125px;
 }
