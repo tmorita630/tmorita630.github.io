@@ -20,7 +20,9 @@ Progate
 - HTML & CSS
 - JavaScript
 
-jQuery
-React
-Node.js
-Quest ドローンメール
+- jQuery
+- React
+- Node.js
+- Quest ドローンメール
+
+https://github.com/settings/tokens
