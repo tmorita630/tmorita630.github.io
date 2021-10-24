@@ -1,8 +1,7 @@
 $(function() {
-  // slideUpメソッドを用いて、「#title」の要素を隠してください
-  $('#title').slideUp();
-  
-  // fadeOutメソッドを用いて、「.lesson-item」の要素を隠してください
-  $('.lesson-item').fadeOut();
+  // 「#hide-text」要素に対するclickイベントを作成してください
+  $("#hide-text").click(function() {
+    $("#text").slideUp();
+  } );
   
 });
