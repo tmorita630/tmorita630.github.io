@@ -5,4 +5,5 @@ git status
 git commit -m "コメント"
 git push
 
-aa
+----
+git pull
