@@ -25,7 +25,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-image: url(/prg/img/top.png);
   background-size: cover;
   color: white;
   text-align: center;
