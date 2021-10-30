@@ -7,3 +7,7 @@ git push
 
 ----
 git pull
+
+---
+git clone https://github.com/tmorita630/tmorita630.github.io
+
